@@ -1,7 +1,11 @@
 ---
 layout: home
 title: Home
+<<<<<<< HEAD
 landing-title: 'Daniele Lubrano - Portfolio'
+=======
+landing-title: 'Hi, my name is Odiurd'
+>>>>>>> a77b58a6a598558868a9c31546228544c23f8ef5
 description: null
 image: null
 author: null
