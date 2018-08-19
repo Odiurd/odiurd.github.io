@@ -1,21 +1,21 @@
 # site settings
-title: Open Source
-subtitle: Projects
-email: youremailaddress@gmail.com
-description: A description here
+title: DLUB
+subtitle: Portfolio
+email: lubrano93@gmail.com
+description: A showcase for practical applications of deep learning, artificial intelligence and computer vision.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: (
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 10
+tiles-count: 4
 
 # contact form settings
 form_url: https://formspree.io/youremailaddress@gmail.com # endpoint URL to receive contact form submissions

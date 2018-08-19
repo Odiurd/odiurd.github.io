@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty1'
+landing-title: 'Daniele Lubrano - Portfolio'
 description: null
 image: null
 author: null
