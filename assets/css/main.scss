@@ -78,3 +78,7 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+	
+// Code syntax highlight, https://github.com/richleland/pygments-css/blob/master/native.css
+	@import url(native.css);
