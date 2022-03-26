@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Daniele Lubrano - Portfolio'
+landing-title: 'Daniele Lubrano - Portfolio 2019'
 description: null
 image: null
 author: null
